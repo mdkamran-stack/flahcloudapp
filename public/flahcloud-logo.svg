@@ -1,0 +1,26 @@
+<svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="blueGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0E5CAE"/>
+      <stop offset="100%" stop-color="#0A4FAF"/>
+    </linearGradient>
+    <linearGradient id="orangeGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#F6A23A"/>
+      <stop offset="100%" stop-color="#E57B1F"/>
+    </linearGradient>
+  </defs>
+
+  <g>
+    <path d="M36 120C36 48.5 89.5 0 160 0H229C254.3 0 288 22 306 48.7C333 88.2 349.3 130.5 352 179.9C355 236 341 287.5 310 327.2C282 363.9 245 383 197 383H160C89.5 383 36 334.5 36 263V120Z" fill="url(#blueGrad)"/>
+    <path d="M180 16C242 16 292 67.5 292 131V152H154C109 152 72 189 72 233C72 277 109 315 154 315H292V329C292 368 261 398 224 398H144C94 398 54 357 54 307V131C54 67.5 104 16 166 16H180Z" fill="url(#blueGrad)" opacity="0.95"/>
+    <path d="M392 95C454 95 503 144 503 206C503 268 454 317 392 317C330 317 281 268 281 206C281 144 330 95 392 95Z" fill="url(#blueGrad)"/>
+    <path d="M330 91C374 51 435 50 485 90C440 103 400 137 369 184C338 178 323 153 330 91Z" fill="url(#orangeGrad)"/>
+    <path d="M430 95C454 84 486 81 515 95C485 118 466 148 454 186C435 179 420 165 414 143C411 123 418 107 430 95Z" fill="url(#orangeGrad)"/>
+    <path d="M515 158C557 158 594 195 594 236C594 277 557 315 515 315C473 315 437 277 437 236C437 195 473 158 515 158Z" fill="url(#orangeGrad)"/>
+  </g>
+
+  <g>
+    <text x="610" y="170" font-family="Segoe UI, Arial, sans-serif" font-size="120" font-weight="700" fill="#0E5CAE" letter-spacing="-5">Flahcloud</text>
+    <text x="615" y="270" font-family="Segoe UI, Arial, sans-serif" font-size="52" font-weight="600" fill="#6E7480" letter-spacing="0">Software Pvt Ltd</text>
+  </g>
+</svg>
