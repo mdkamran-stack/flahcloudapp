@@ -45,7 +45,7 @@ export default function Layout() {
             </div>
 
             <div className="social-strip" aria-label="Social media links">
-              <a href="#" aria-label="LinkedIn" className="social-icon">in</a>
+              <a href="https://www.linkedin.com/company/flahcloud/posts/?feedView=all" aria-label="LinkedIn" className="social-icon">in</a>
               <a href="#" aria-label="X" className="social-icon">x</a>
               <a href="#" aria-label="Facebook" className="social-icon">f</a>
             </div>
@@ -67,7 +67,6 @@ export default function Layout() {
                       className={({ isActive }) => (isActive ? 'nav-link active' : 'nav-link')}
                     >
                       {item.label}
-                      <span className="caret">•</span>
                     </NavLink>
 
                     <ul className="dropdown-menu">
